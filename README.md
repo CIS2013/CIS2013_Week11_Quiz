@@ -15,12 +15,11 @@ Name your quiz: `CIS2013_Week11_Quiz1`
 User types: 
 
 	> Number or rows: 2
-	> Number of computers on row 1: 2
-	> Number of computers on row 2: 3
+	> Number of computers on row : 3
 
 Output would be: 
 
-	> 1:  empty empty
+	> 1:  empty empty empty
 	> 2:  empty empty empty
 	
 Then
@@ -30,7 +29,7 @@ Then
 	
 Output would be:
 
-	> 1:  empty empty
+	> 1:  empty empty empty
 	> 2:    99  empty empty
 	>
 	> Pick a row/computer to set a grade on: 
